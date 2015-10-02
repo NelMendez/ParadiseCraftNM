@@ -1,10 +1,3 @@
-/* Custom Stylesheet */
-/**
- *
- * Made By Joash Pereira
- * Thanks for MaterializeCSS.com
- */
-
 .default_color{background-color: #2196F3 !important}
 
 .default_color_text{color: #2196F3 !important}
@@ -20,12 +13,13 @@
     min-height: 632px;
     max-height: 864px;
     position: relative;
-    background-color: #2196F3;
+    background-image: url("img/parallax3.png");
 }
 
 #nav_f{
     box-shadow: none !important; 
     -webkit-box-shadow:none !important;
+    background-image: url("parallax3");
 }
 
 .text_h {
